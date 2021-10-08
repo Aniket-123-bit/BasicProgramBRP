@@ -1,6 +1,6 @@
 package com.day9;
 import java.math.RoundingMode; 
-import com.google.common.math.IntMath; 
+
 
 public class Prime {
 	 // Driver code 
